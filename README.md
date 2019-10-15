@@ -20,6 +20,10 @@
 
 >  **POST** `/api/v1/booking`
 
+## Postman API docs
+
+[https://documenter.getpostman.com/view/7170880/SVtYQm5u?version=latest](https://documenter.getpostman.com/view/7170880/SVtYQm5u?version=latest)
+
 ## Folder structure of Whitepanda-Backend-Task
 
 ![enter image description here](https://raw.githubusercontent.com/shrynshigupta06/whitepanda-backend/master/whitepanda-task.png)
